@@ -14,7 +14,7 @@ detailed step by step on my ProxMox install and set up.
 <h2>Virtual Machines</h2>
 - <b>Kali Linux</b>
 - <b>Plex Media Server</b>
-- <b>True NAS</b>
+- <b>TrueNAS</b>
 
 <h2>Domain & internet security</h2>
 - <b>GoDaddy domain</b>
