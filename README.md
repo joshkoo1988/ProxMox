@@ -26,4 +26,10 @@ detailed step by step on my ProxMox install and set up.
 
 <h2>Program walk-through:</h2>
 
+1. Create a boot disk for PfSense using one of the following tools.<br>
+  - https://etcher.balena.io/ - https://rufus.ie/downloads/ <br>
 
+2. Open PfSense through bios on target device<br>
+  - Plug your newly created boot disk into a USB slot on your target device.<br>
+  - Turn on PC and enter bios (Del key for mine) and load up your boot disk on the target device.<br>
+3. 
